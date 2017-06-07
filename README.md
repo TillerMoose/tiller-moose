@@ -1,2 +1,2 @@
 # tiller-moose
-Website for careers project.
+Site web pour carrières.
